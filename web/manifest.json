@@ -1,0 +1,44 @@
+{
+	"name": "Кошик Суші",
+	"short_name": "Кошик Суші",
+	"start_url": "/catalog",
+	"lang": "uk",
+	"icons": [
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-128.png",
+	      "sizes": "128x128",
+	      "type": "image/png"
+	    },
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-144.png",
+	      "sizes": "144x144",
+	      "type": "image/png"
+	    },
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-152.png",
+	      "sizes": "152x152",
+	      "type": "image/png"
+	    },
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-192.png",
+	      "sizes": "192x192",
+	      "type": "image/png"
+	    },
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-256.png",
+	      "sizes": "256x256",
+	      "type": "image/png"
+	    },
+	    {
+	      "src": "https://sushi.koshik.sumy.ua/img/sushi-512.png",
+	      "sizes": "512x512",
+	      "type": "image/png"
+	    }
+  	],
+  	"background_color": "transparent",
+  	"theme_color": "#f26722",
+	"display": "fullscreen",
+	"orientation": "any",
+	"gcm_sender_id": "482941778795",
+	"gcm_sender_id_comment": "Do not change the GCM Sender ID"
+}
